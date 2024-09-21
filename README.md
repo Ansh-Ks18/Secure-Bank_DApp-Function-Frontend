@@ -237,8 +237,7 @@ function makeTransaction(uint256 amount) public onlyVerified {
 - **`scripts/`**: Deployment scripts.
   - `deploy.js`: Deploys the `SecureBanking` contract.
 - **`src/`**: Front-end React components and application logic.
-  - `App.js`: Main React component.
-  - `index.js`: Application entry point.
+    - `index.js`: Application entry point.
 
 ## Future Improvements 🛠️
 
@@ -255,11 +254,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![Screenshot (428)](https://github.com/user-attachments/assets/99528971-78a2-4850-9525-a05f737239e6)
 
----
-Sure! Here's a more advanced and polished version with a special icon for your GitHub profile:
-
----
-
 ## 👨‍💻 Authors
 
 <img src="https://github.com/user-attachments/assets/7f0466c6-16a0-4c0c-80e5-5d580e4605e8" width="50" height="40">**Anshu Kumar** - [@AnshuKumar](https://github.com/Ansh-Ks18)
@@ -269,4 +263,4 @@ Passionate about solving real-world problems through code and constantly strivin
 ---
 
 Thank you for using SecureBank DApp! If you have any suggestions or issues, feel free to raise them in the repository.
-# Secure-Bank_DApp-Function-Frontend
+
