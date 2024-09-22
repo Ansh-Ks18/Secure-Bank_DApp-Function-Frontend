@@ -256,11 +256,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Project Demo and Screenshots
 
-![Screenshot (428)](https://github.com/user-attachments/assets/99528971-78a2-4850-9525-a05f737239e6)
+![Screenshot (428)](https://github.com/user-attachments/assets/bd3cae77-8c8f-468f-9583-965d94d9ba9a)
+
 
 ## 👨‍💻 Authors
 
-<img src="https://github.com/user-attachments/assets/7f0466c6-16a0-4c0c-80e5-5d580e4605e8" width="50" height="40">**Anshu Kumar** - [@AnshuKumar](https://github.com/Ansh-Ks18)
+<img src="https://github.com/user-attachments/assets/2c7a71d9-b247-4955-86f7-40c10eeaf80d " width="50" height="40">**Anshu Kumar** - [@AnshuKumar](https://github.com/Ansh-Ks18)
 
 Passionate about solving real-world problems through code and constantly striving for excellence in software development. Connect with me on GitHub to explore innovative projects and collaborative contributions!
 
