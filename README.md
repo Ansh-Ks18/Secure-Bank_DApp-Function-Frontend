@@ -6,6 +6,10 @@
 
 The **SecureBank DApp** is an advanced decentralized banking application leveraging Ethereum smart contracts to deliver a secure and efficient banking experience. Users can manage Ether transactions, perform KYC (Know Your Customer) verification, set daily transaction limits, track their spending, and ensure secure interactions within the blockchain ecosystem. This project employs Solidity for smart contracts, Ethers.js for blockchain interaction, and MetaMask for account management.
 
+## 🎥 Video Tutorial
+
+For a detailed video walkthrough, watch the [video](https://drive.google.com/file/d/17A9XLpUIn5b6CzPtGkpkeFMz1NRPLWn3/view?usp=sharing).
+
 ## Technologies Used 🛠️
 
 ![JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MetaMask](https://avatars.githubusercontent.com/u/11744586?s=48&v=4) ![Hardhat](https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg)
